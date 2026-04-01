@@ -1,0 +1,5 @@
+{
+  "name": "Vocab Master",
+  "description": "An interactive English vocabulary quiz application featuring multiple categories, example sentences, and comprehensive word definitions based on provided learning materials.",
+  "requestFramePermissions": []
+}
